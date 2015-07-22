@@ -1,0 +1,969 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Log",
+				"LoginService"
+			],
+			[
+				"$St",
+				"$stateProvider"
+			],
+			[
+				"$rout",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"$route",
+				"$routeChangeStart	AngularJS (E)"
+			],
+			[
+				"templ",
+				"templateUrl"
+			],
+			[
+				"$ST",
+				"$routeChangeStart	AngularJS (E)"
+			],
+			[
+				"$loca",
+				"$location	AngularJS"
+			],
+			[
+				"$roo",
+				"$rootScope	AngularJS"
+			],
+			[
+				"$locati",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"$coo",
+				"$cookies	AngularJS"
+			],
+			[
+				"cookie",
+				"cookieStore"
+			],
+			[
+				"$cook",
+				"$cookieStore	AngularJS"
+			],
+			[
+				"$c",
+				"$cordovaSms"
+			],
+			[
+				"ng",
+				"ng-click	AngularJS"
+			],
+			[
+				"head",
+				"headlineNumber"
+			],
+			[
+				"news",
+				"newslength"
+			],
+			[
+				"nes",
+				"newslength"
+			],
+			[
+				"hea",
+				"Headlines"
+			],
+			[
+				"ion-to",
+				"ionic-toggle:positive	ionic-toggle-positive"
+			],
+			[
+				"ngC",
+				"ng-cloak	AngularJS"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"tabs",
+				"tabsCtrl"
+			],
+			[
+				"my",
+				"myTabs"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"DB",
+				"DBAccessObj"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"defer",
+				"deferred"
+			],
+			[
+				"getT",
+				"getTZDate"
+			],
+			[
+				"Time",
+				"TimeService"
+			],
+			[
+				"Tim",
+				"TimeService"
+			],
+			[
+				"censor",
+				"censorS"
+			],
+			[
+				"censored",
+				"censoredByService"
+			],
+			[
+				"cen",
+				"censorF"
+			],
+			[
+				"cens",
+				"censorF"
+			],
+			[
+				"in",
+				"inString"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"buy",
+				"buyItem"
+			],
+			[
+				"sto",
+				"storeItems"
+			],
+			[
+				"item",
+				"itemIDX"
+			],
+			[
+				"b",
+				"bodyParser"
+			],
+			[
+				"Cha",
+				"CharacterDeleted"
+			],
+			[
+				"cu",
+				"currentName"
+			],
+			[
+				"Char",
+				"CharacterChanged"
+			],
+			[
+				"My",
+				"myObj"
+			],
+			[
+				"keySt",
+				"keyState"
+			],
+			[
+				"key",
+				"keyStrokes"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"m",
+				"myCensorFilter"
+			],
+			[
+				"replac",
+				"replacement"
+			],
+			[
+				"filter",
+				"filterFilter"
+			],
+			[
+				"f",
+				"filteredPlanes"
+			],
+			[
+				"a",
+				"aString"
+			],
+			[
+				"run",
+				"runTime"
+			],
+			[
+				"con",
+				"configTime"
+			],
+			[
+				"sq",
+				"sqrRoot"
+			],
+			[
+				"tim",
+				"timeStr"
+			],
+			[
+				"time",
+				"timeArr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fir",
+				"firebaseSimpleLogin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/index.html",
+			"settings":
+			{
+				"buffer_size": 1320,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/app.js",
+			"settings":
+			{
+				"buffer_size": 2387,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/templates/1.html",
+			"settings":
+			{
+				"buffer_size": 511,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/templates/scotus-detail.html",
+			"settings":
+			{
+				"buffer_size": 495,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/controllers.js",
+			"settings":
+			{
+				"buffer_size": 798,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/templates/tab-more.html",
+			"settings":
+			{
+				"buffer_size": 195,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/templates/tabs.html",
+			"settings":
+			{
+				"buffer_size": 848,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/templates/tab-about.html",
+			"settings":
+			{
+				"buffer_size": 743,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/services.js",
+			"settings":
+			{
+				"buffer_size": 1334,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/templates/tab-scotus.html",
+			"settings":
+			{
+				"buffer_size": 564,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 93.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/josh/a/scotus",
+		"/Users/josh/a/scotus/hooks",
+		"/Users/josh/a/scotus/www",
+		"/Users/josh/a/scotus/www/js",
+		"/Users/josh/a/scotus/www/templates"
+	],
+	"file_history":
+	[
+		"/Users/josh/a/annefrank/www/index.html",
+		"/Users/josh/Documents/rosenhub/index.html",
+		"/Users/josh/Documents/rosenhub/gh-index.html",
+		"/Users/josh/a/rosenhub/.gitignore",
+		"/Users/josh/.bash_profile",
+		"/Users/josh/Documents/MacGap2/public/index.html",
+		"/Users/josh/Documents/gilgamesh/www/templates/tablets/8.html",
+		"/Users/josh/Documents/gilgamesh/www/templates/tablets/9.html",
+		"/Users/josh/Documents/gilgamesh/www/templates/tablets/10.html",
+		"/Users/josh/Documents/gilgamesh/www/templates/tablets/11.html",
+		"/Users/josh/Documents/MacGap2/public/config.json",
+		"/Users/josh/Documents/gilgamesh/www/js/app.js",
+		"/Users/josh/Downloads/graphite-master/themes/slate.custom.css",
+		"/Users/josh/Documents/gilgamesh/www/templates/tablets/4.html",
+		"/Users/josh/Documents/gilgamesh/www/templates/tablets/5.html",
+		"/Users/josh/Documents/gilgamesh/www/templates/tablets/6.html",
+		"/Users/josh/Documents/gilgamesh/www/templates/tablets/7.html",
+		"/Users/josh/Documents/gilgamesh/www/templates/tablets/1.html",
+		"/Users/josh/Documents/gilgamesh/www/templates/tablets/2.html",
+		"/Users/josh/Documents/gilgamesh/www/templates/2.html",
+		"/Users/josh/Documents/gilgamesh/www/templates/tablets/3.html",
+		"/Users/josh/Documents/gilgamesh/www/templates/tablets.html",
+		"/Users/josh/Documents/gilgamesh/www/js/controllers.js",
+		"/Users/josh/Documents/gilgamesh/www/templates/tablet.html",
+		"/Users/josh/Documents/gilgamesh/www/templates/menu.html",
+		"/Users/josh/.profile",
+		"/Users/josh/Documents/gilgamesh/www/templates/tablet_I.html",
+		"/Users/josh/Documents/gilgamesh/.gitignore",
+		"/Users/josh/Documents/newsflick/.gitignore",
+		"/Users/josh/Documents/vice/.gitignore",
+		"/Users/josh/Desktop/vicelord/.gitignore",
+		"/Users/josh/Desktop/nflick/.gitignore",
+		"/Users/josh/Desktop/0.0.sabre/as-GEM/js/main.js",
+		"/Users/josh/Desktop/0.0.sabre/as-GEM/js/plugins.js",
+		"/Users/josh/Desktop/nf/www/templates/login.html",
+		"/Users/josh/Desktop/nf/www/index.html",
+		"/Users/josh/Desktop/nf/www/templates/toEmail.html",
+		"/Users/josh/Desktop/nf/www/templates/tab-news.html",
+		"/Users/josh/Desktop/nf/www/js/services.js",
+		"/Users/josh/Desktop/nf/www/js/app.js",
+		"/Users/josh/Desktop/nf/www/js/controllers.js",
+		"/Users/josh/Desktop/nf/www/templates/tab-settings.html",
+		"/Users/josh/Desktop/nf/www/templates/tab-dash.html",
+		"/Users/josh/Desktop/nf/www/templates/detail-news.html",
+		"/Users/josh/Desktop/nf/www/templates/settings-about.html",
+		"/Users/josh/Desktop/nf/www/templates/settings-privacy.html",
+		"/Users/josh/Desktop/nf/www/templates/toFB.html",
+		"/Users/josh/Desktop/nf/www/templates/tab-news copy.html",
+		"/Users/josh/Desktop/nf/www/css/style.css",
+		"/Users/josh/Desktop/nf/www/templates/settings-contact.html",
+		"/Users/josh/Desktop/nf/www/templates/toSMS.html",
+		"/Users/josh/Desktop/freshlypressed/www/index.js",
+		"/Users/josh/Desktop/nf/www/templates/chat-detail.html",
+		"/Users/josh/Desktop/nf/www/templates/email.html",
+		"/Users/josh/Desktop/nf/www/templates/tabs.html",
+		"/Users/josh/Desktop/flick/www/js/app.js",
+		"/Users/josh/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/josh/Desktop/nf/www/templates/tab-chats.html",
+		"/Users/josh/Desktop/nf/www/templates/settings-email.html",
+		"/Users/josh/Desktop/freshlypressed/www/index.html",
+		"/Users/josh/Desktop/nf/www/templates/tab-account.html",
+		"/Users/josh/Desktop/flick/www/index.html",
+		"/Users/josh/Desktop/nflick/www/js/ng-cordova.min.js",
+		"/Users/josh/Desktop/flick/www/css/style.css",
+		"/Users/josh/Desktop/NewsFlick/www/js/newsflick.js",
+		"/Users/josh/Desktop/NewsFlick/www/css/style.css",
+		"/Users/josh/Desktop/NewsFlick/www/index.html",
+		"/Users/josh/Desktop/freshlypressed/www/index.css",
+		"/Users/josh/Desktop/swipe/www/index.html",
+		"/Users/josh/Desktop/NewsFlick/www/js/app.js",
+		"/Users/josh/Desktop/noder/ch11/js/zooming.js",
+		"/Users/josh/Desktop/noder/ch11/zoomit.html",
+		"/Users/josh/Desktop/noder/ch11/zooming.html",
+		"/Users/josh/Desktop/noder/ch11/js/dragdrop.js",
+		"/Users/josh/Desktop/noder/ch11/tabbable.html",
+		"/Users/josh/Desktop/noder/ch11/tabs.html",
+		"/Users/josh/Desktop/noder/ch11/pane.html",
+		"/Users/josh/Desktop/noder/ch10/js/service_custom_db_access.js",
+		"/Users/josh/Desktop/noder/service_db.js",
+		"/Users/josh/Desktop/noder/ch10/service_db.html",
+		"/Users/josh/Desktop/noder/ch10/js/service_custom_db.js",
+		"/Users/josh/Desktop/noder/ch10/js/service_custom_censor.js",
+		"/Users/josh/Desktop/web-dev-ex-d/site.html",
+		"/Users/josh/Desktop/noder/service_server.js",
+		"/Users/josh/Desktop/noder/ch09/js/service_http.js",
+		"/Users/josh/Desktop/noder/ch09/service_http.html",
+		"/Users/josh/Desktop/noder/ch07/js/directive_custom_dom.js",
+		"/Users/josh/Desktop/noder/ch07/directive_custom_dom.html",
+		"/Users/josh/Desktop/noder/ch06/large_title.html",
+		"/Users/josh/Desktop/noder/ch05/js/custom.js",
+		"/Users/josh/Desktop/noder/ch05/custom.html",
+		"/Users/josh/Desktop/noder/ch04/js/scope_hierachy.js",
+		"/Users/josh/Desktop/noder/ch04/scope_hiearchy.html",
+		"/Users/josh/Desktop/noder/ch04/js/scope_template.js",
+		"/Users/josh/Desktop/noder/ch03/js/config_run_blocks.js",
+		"/Users/josh/Desktop/noder/ch03/thirda.html",
+		"/Users/josh/Desktop/noder/ch03/js/inject_builtin.js",
+		"/Users/josh/Desktop/noder/ch03/third.html",
+		"/Users/josh/Desktop/noder/ch03/js/inject_custom.js",
+		"/Users/josh/Desktop/noder/server.js",
+		"/Users/josh/Desktop/noder/ch02/js/first.js",
+		"/Users/josh/Desktop/noder/ch01/welcome.html",
+		"/Users/josh/Desktop/noder/console.js",
+		"/Users/josh/Desktop/noder/ch02/first.html",
+		"/Users/josh/Desktop/noder/css/welcome.css",
+		"/Users/josh/Desktop/noder/welcome.html",
+		"/Users/josh/Desktop/noder/welcome.js",
+		"/Users/josh/Desktop/codiqa/www/index.html",
+		"/Users/josh/Desktop/0.2015/0.dealswipe/DealSwipe/www/index.html",
+		"/Users/josh/Desktop/0.2015/0.dealswipe/DealSwipe/www/templates/playlists.html",
+		"/Users/josh/Desktop/0.2015/0.dealswipe/DealSwipe/www/templates/playlist.html",
+		"/Users/josh/Desktop/ionic/menuApp/www/index.html",
+		"/Users/josh/Desktop/ionic/authentication-app/www/js/app.js",
+		"/Users/josh/Desktop/ionic/authentication-app/www/js/controllers.js",
+		"/Users/josh/Desktop/ionic/authentication-app/www/js/services.js",
+		"/Users/josh/Desktop/ionic-ebook-master/authentication-app/www/index.html",
+		"/Users/josh/Desktop/ionic/authentication-app/www/templates/tab-account.html",
+		"/Users/josh/Desktop/ionic/authentication-app/www/templates/tab-user.html",
+		"/Users/josh/Desktop/ionic/authentication-app/www/templates/tabs.html",
+		"/Users/josh/Desktop/ionic/authentication-app/www/index.html",
+		"/Users/josh/Desktop/0.2015/0.dealswipe/jTinder-master/index.html",
+		"/Users/josh/Desktop/0.2015/0.dealswipe/dealswipe/www/index.html",
+		"/Users/josh/Desktop/0.2014/0.backpocket/bpocket/platforms/ios/www/index.html",
+		"/Users/josh/Desktop/noder/nodetest1/routes/index.js",
+		"/Users/josh/Desktop/noder/nodetest1/views/newuser.jade",
+		"/Users/josh/Desktop/noder/nodetest1/app.js",
+		"/Users/josh/Desktop/noder/nodetest1/views/index.jade",
+		"/Users/josh/Desktop/noder/nodetest1/routes/users.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"diary",
+			"DISABLED",
+			" console.log(newslength);",
+			"true",
+			"false",
+			"chats",
+			"footer-bar",
+			"footer",
+			"shit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2109,
+								2109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 659.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/templates/1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								335
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/templates/scotus-detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "www/js/controllers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								61
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "www/templates/tab-more.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "www/templates/tabs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "www/templates/tab-about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "www/js/services.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1113,
+								1113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "www/templates/tab-scotus.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "scotus.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main.j",
+				"js/main.js"
+			],
+			[
+				"plg",
+				"js/plugins.js"
+			],
+			[
+				"",
+				"css/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
